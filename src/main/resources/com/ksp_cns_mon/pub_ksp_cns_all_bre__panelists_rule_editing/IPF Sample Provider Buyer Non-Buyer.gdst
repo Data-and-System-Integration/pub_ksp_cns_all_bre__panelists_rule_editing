@@ -80,6 +80,11 @@
   </conditionPatterns>
   <actionCols>
     <set-field-col52>
+      <typedDefaultValue>
+        <valueString></valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </typedDefaultValue>
       <hideColumn>false</hideColumn>
       <width>297</width>
       <header>IPF SampleBuyer : Panelist_panelist_attr_43</header>
