@@ -1,4 +1,4 @@
-package com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl;
+package com.ksp_cns_mon.pub_ksp_cns_all_bre__panelists_rule_editing;
 
 import java.math.*;
 import java.lang.Object.*;
