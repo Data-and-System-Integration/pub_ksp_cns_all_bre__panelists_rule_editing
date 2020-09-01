@@ -48,6 +48,7 @@
           <header>panelist_age &lt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_age</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&lt;</operator>
           <parameters/>
         </condition-column52>
@@ -57,6 +58,7 @@
           <header>panelist_age &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_age</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -66,6 +68,7 @@
           <header>Gender : panelist_gender equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_gender</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -75,6 +78,7 @@
           <header>Qstate : panelist_state equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_state</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -84,6 +88,7 @@
           <header>KSPStatus : panelist_panelist_attr_26 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_26</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -93,6 +98,7 @@
           <header>BoughtHighIncidence : panelist_panelist_attr_24 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_24</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -102,6 +108,7 @@
           <header>BoughtLowIncidence : panelist_panelist_attr_25 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_25</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -111,6 +118,7 @@
           <header>panelist_panelist_attr_35 &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_35</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -120,6 +128,7 @@
           <header>panelist_panelist_attr_34 &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_34</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -129,6 +138,7 @@
           <header>Scrgothere : panelist_panelist_attr_8 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_8</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -196,7 +206,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">114</valueNumeric>
+        <valueNumeric class="int">10015</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -257,8 +267,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -275,7 +286,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">113</valueNumeric>
+        <valueNumeric class="int">10014</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -336,8 +347,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -354,7 +366,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">112</valueNumeric>
+        <valueNumeric class="int">10013</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -415,8 +427,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -433,7 +446,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">111</valueNumeric>
+        <valueNumeric class="int">10012</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -494,8 +507,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -512,7 +526,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">110</valueNumeric>
+        <valueNumeric class="int">10011</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -573,8 +587,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -591,7 +606,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">109</valueNumeric>
+        <valueNumeric class="int">10010</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -652,8 +667,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -670,7 +686,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">108</valueNumeric>
+        <valueNumeric class="int">10009</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -731,8 +747,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -749,7 +766,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">107</valueNumeric>
+        <valueNumeric class="int">10008</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -810,8 +827,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -828,7 +846,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">106</valueNumeric>
+        <valueNumeric class="int">10007</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -889,8 +907,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -907,7 +926,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">105</valueNumeric>
+        <valueNumeric class="int">10006</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -968,8 +987,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -986,7 +1006,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">104</valueNumeric>
+        <valueNumeric class="int">10005</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -1047,8 +1067,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1065,7 +1086,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">103</valueNumeric>
+        <valueNumeric class="int">10004</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -1126,8 +1147,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1144,7 +1166,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">102</valueNumeric>
+        <valueNumeric class="int">10003</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -1205,8 +1227,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1223,7 +1246,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">101</valueNumeric>
+        <valueNumeric class="int">10002</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -1284,8 +1307,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
