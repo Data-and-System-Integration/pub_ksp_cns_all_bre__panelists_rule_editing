@@ -44,28 +44,31 @@
       <conditions>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>187</width>
           <header>Sample Provider : panelist_panelist_attr_39 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_39</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>151</width>
           <header>KSPStatus : panelist_panelist_attr_26 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_26</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>675</width>
           <header>Sample Provider : panelist_panelist_attr_39 in</header>
           <constraintValueType>1</constraintValueType>
           <factField>panelist_panelist_attr_39</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>in</operator>
           <parameters/>
         </condition-column52>
@@ -78,7 +81,7 @@
   <actionCols>
     <set-field-col52>
       <hideColumn>false</hideColumn>
-      <width>100</width>
+      <width>297</width>
       <header>IPF SampleBuyer : Panelist_panelist_attr_43</header>
       <boundName>panelist</boundName>
       <factField>panelist_panelist_attr_43</factField>
@@ -159,8 +162,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003343</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003343</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -203,8 +207,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003344</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003344</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -247,8 +252,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003339</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003339</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -291,8 +297,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003340</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003340</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -320,7 +327,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1070359495</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -335,8 +342,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003575</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003575</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -364,11 +372,6 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1070359495</valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </value>
-      <value>
         <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
@@ -379,8 +382,14 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003576</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric>1247003576</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -423,8 +432,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003577</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003577</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -467,8 +477,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003578</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003578</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -511,8 +522,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003341</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003341</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -555,8 +567,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003342</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003342</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -594,13 +607,14 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1070017024 , 1070017022 , 1070017019</valueString>
+        <valueString>1070017019,1070017022,1070017024</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003337</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003337</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -638,13 +652,14 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1070017024 , 1070017022 , 1070017019</valueString>
+        <valueString>1070017019,1070017022,1070017024</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247003338</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247003338</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
