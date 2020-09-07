@@ -48,7 +48,6 @@
           <header>Kids1 : panelist_panelist_attr_28 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_28</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -58,7 +57,6 @@
           <header>Kids2 : panelist_panelist_attr_29 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_29</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -68,7 +66,6 @@
           <header>Kids3 : panelist_panelist_attr_30 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_30</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -78,7 +75,6 @@
           <header>Hhsize : panelist_household_size in</header>
           <constraintValueType>1</constraintValueType>
           <factField>panelist_household_size</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>in</operator>
           <parameters/>
         </condition-column52>
@@ -88,7 +84,6 @@
           <header>Hhsize : panelist_household_size equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_household_size</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -137,7 +132,11 @@
     <entries/>
   </auditLog>
   <imports>
-    <imports/>
+    <imports>
+      <org.kie.soup.project.datamodel.imports.Import>
+        <type>com.data_object.data_object.pub_cns_combined_flattened_bre</type>
+      </org.kie.soup.project.datamodel.imports.Import>
+    </imports>
   </imports>
   <packageName>com.ksp_cns_mon.pub_ksp_cns_all_bre__panelists_rule_editing</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
@@ -192,9 +191,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000482</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000482</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -247,9 +245,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000485</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000485</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -302,9 +299,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000485</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000485</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -357,9 +353,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000485</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000485</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -412,9 +407,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000486</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000486</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -467,9 +461,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000486</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000486</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -522,9 +515,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000486</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1247000486</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
