@@ -48,6 +48,7 @@
           <header>panelist_age &lt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_age</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&lt;</operator>
           <parameters/>
         </condition-column52>
@@ -57,6 +58,7 @@
           <header>panelist_age &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_age</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -66,6 +68,7 @@
           <header>Gender : panelist_gender equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_gender</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -75,6 +78,7 @@
           <header>Qstate : panelist_state equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_state</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -84,6 +88,7 @@
           <header>KSPStatus : panelist_panelist_attr_26 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_26</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -93,6 +98,7 @@
           <header>BoughtHighIncidence : panelist_panelist_attr_24 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_24</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -102,6 +108,7 @@
           <header>BoughtLowIncidence : panelist_panelist_attr_25 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_25</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -111,6 +118,7 @@
           <header>panelist_panelist_attr_35 &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_35</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -120,6 +128,7 @@
           <header>panelist_panelist_attr_34 &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_34</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -129,6 +138,7 @@
           <header>Scrgothere : panelist_panelist_attr_8 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_panelist_attr_8</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -261,8 +271,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -340,8 +351,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -419,8 +431,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -498,8 +511,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -577,8 +591,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -656,8 +671,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -735,8 +751,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -814,8 +831,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -893,8 +911,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -972,8 +991,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1051,8 +1071,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1130,8 +1151,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1209,8 +1231,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>81</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>81</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -1288,8 +1311,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>82</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>82</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
