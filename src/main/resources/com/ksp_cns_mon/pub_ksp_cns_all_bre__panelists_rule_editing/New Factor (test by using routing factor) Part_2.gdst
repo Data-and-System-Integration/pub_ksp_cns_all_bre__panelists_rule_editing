@@ -105,7 +105,11 @@
     <entries/>
   </auditLog>
   <imports>
-    <imports/>
+    <imports>
+      <org.kie.soup.project.datamodel.imports.Import>
+        <type>com.data_object.data_object.pub_cns_combined_flattened_bre</type>
+      </org.kie.soup.project.datamodel.imports.Import>
+    </imports>
   </imports>
   <packageName>com.ksp_cns_mon.pub_ksp_cns_all_bre__panelists_rule_editing</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
