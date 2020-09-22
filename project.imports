@@ -28,9 +28,6 @@
       <import>
         <type>com.data_object.data_object</type>
       </import>
-      <import>
-        <type>java.math.BigDecimal</type>
-      </import>
     </imports>
   </imports>
   <version>1.0</version>
