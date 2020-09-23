@@ -156,7 +156,7 @@
       <boundName>panelist</boundName>
       <factField>panelist_status</factField>
       <type>java.math.BigDecimal</type>
-      <update>false</update>
+      <update>true</update>
     </set-field-col52>
   </actionCols>
   <auditLog>
